@@ -1,7 +1,8 @@
 #include <iostream>
-using namespace std;
-int main()
-{
-    cout << "Hello World!\n";
-    return 0;
-}
+using System;
+class Program{
+    static void Main(){
+        Console.Write("Enter a whole number. ");
+        int num = int.Parse(Console.ReadLine());
+    }
+};
