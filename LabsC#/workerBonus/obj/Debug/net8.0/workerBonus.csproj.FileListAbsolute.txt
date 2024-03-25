@@ -1,0 +1,15 @@
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.AssemblyInfoInputs.cache
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.AssemblyInfo.cs
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.sourcelink.json
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\bin\Debug\net8.0\workerBonus.exe
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\bin\Debug\net8.0\workerBonus.deps.json
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\bin\Debug\net8.0\workerBonus.runtimeconfig.json
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\bin\Debug\net8.0\workerBonus.dll
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\bin\Debug\net8.0\workerBonus.pdb
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.dll
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\refint\workerBonus.dll
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.pdb
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\workerBonus.genruntimeconfig.cache
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerBonus\obj\Debug\net8.0\ref\workerBonus.dll

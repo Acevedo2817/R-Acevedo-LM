@@ -5,6 +5,13 @@
     "version": "0.1.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "libraryLoan",
+            "request": "launch",
+            "mainClass": "libraryLoan",
+            "projectName": "COMP2315-LM_55a1653e"
+        },
+        {
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
@@ -15,6 +22,5 @@
             "environment": [],
             "console": "externalTerminal"
         }
-
     ]
 }
