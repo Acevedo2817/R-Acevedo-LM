@@ -2,10 +2,12 @@
 using namespace std;
 int main(){
     float number;
+    int intNumber;
     cout << "Enter a whole number. ";
     cin >> number;
+    intNumber = number;
     try{
-        if((number - (int)number) != 0){
+        if(number != intNumber){ // (number - (int)number) != 0
             throw "Entry is not a whole number!";
         }
         cout << "Integer entered: " << number;
