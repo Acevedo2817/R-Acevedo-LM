@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "COMP2315-LM_55a1653e"
+        },
+        {
+            "type": "java",
             "name": "libraryLoan",
             "request": "launch",
             "mainClass": "libraryLoan",

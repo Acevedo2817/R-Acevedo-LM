@@ -1,0 +1,15 @@
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.AssemblyInfoInputs.cache
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.AssemblyInfo.cs
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.sourcelink.json
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\bin\Debug\net8.0\workerWage.exe
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\bin\Debug\net8.0\workerWage.deps.json
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\bin\Debug\net8.0\workerWage.runtimeconfig.json
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\bin\Debug\net8.0\workerWage.dll
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\bin\Debug\net8.0\workerWage.pdb
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.dll
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\refint\workerWage.dll
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.pdb
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\workerWage.genruntimeconfig.cache
+C:\Users\user\Documents\COMP2315-LM\LabsC#\workerWage\obj\Debug\net8.0\ref\workerWage.dll
